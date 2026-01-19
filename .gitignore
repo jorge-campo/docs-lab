@@ -1,0 +1,16 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Secrets / env
+.env
+.env.*
+*.key
+*.pem
+
+# Logs/temp
+*.log
+tmp/
+
+# Editor (keep it clean; adjust if you want to share settings)
+.vscode/
