@@ -138,7 +138,7 @@ To set up OpenCode with ChatGPT Plus or Pro:
 
 In this first session, we will configure OpenCode in "Plan" mode, which focuses on planning and understanding the repo rather than generating code.
 
-![OpenCode TUI main screen showing the active model and mode options](./opencode-for-technical-writers-part-one/images/opencode-model-selection.png)
+<!-- ![OpenCode TUI main screen showing the active model and mode options](opencode-for-technical-writers-part-one/media/opencode-tui-main-screen.png) -->
 
 Open the OpenCode command line interface (CLI):
 
